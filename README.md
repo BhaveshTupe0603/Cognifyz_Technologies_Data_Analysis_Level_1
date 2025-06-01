@@ -51,10 +51,5 @@ Welcome to the repository for **Level 1** of the **Cognifyz Technologies Data An
 These analyses were conducted as part of my **Data Analysis Internship at Cognifyz Technologies** (Level 1). Each task focused on exploring real-world restaurant data to uncover business-relevant insights.
 
 ---
-
-## 🔗 Let's Connect
-
-Check out more of my work or connect with me on [LinkedIn](https://www.linkedin.com/).
-
 **Hashtags:**  
 #cognifyztechnologies #cognifyz #dataanalysis #internship #python #visualization
